@@ -1,0 +1,17 @@
+Step 1: Start the program.
+
+Step 2: Generate a random that fives the total number of frames to be transmitted.
+
+Step 3: Transmit the first frame to the server.
+
+Step 4: Receive the acknowledgement from the server for the first frame.
+
+Step 5: Transmit the next frame.
+
+Step 6: Find the remaining frames to be sent.
+
+Step 7: If an acknowledgement is not reeived for a particular frame, retransmit that frame alone.
+
+Step 8: Repeat the steps 5 to 7 till the number of remaining frames to send becomes 0.
+
+Step 9: Stop the program.

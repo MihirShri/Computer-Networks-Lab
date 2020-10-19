@@ -1,0 +1,17 @@
+Step 1: Start the program.
+
+Step 2: Generate a random that fives the total number of frames to be transmitted.
+
+Step 3: Get the size of the window.
+
+Step 4: Generate a random number less that or equal to the size of the current window and identify the number of frames to be transmitted at a given time.
+
+Step 5: Transmit the frames and receive the acknowledgement for the frames sent.
+
+Step 6: Find the remaining frames to be sent.
+
+Step 7: If an acknowledgement is not received for a particular frame, retransmit the frames from that frame.
+
+Step 8: Repeat the steps 5 to 7 till the number of remaining frames to send becomes 0.
+
+Step 9: Stop the program.
